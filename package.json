@@ -9,7 +9,7 @@
     "agora-rtc-sdk": "^3.1.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "agoran-awe": "1.1.2",
     "agora-stream-player": "^1.1.3"
   },
