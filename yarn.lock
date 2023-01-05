@@ -1613,6 +1613,20 @@ aggregate-error@^3.0.0:
     clean-stack "^2.0.0"
     indent-string "^4.0.0"
 
+agora-rtc-sdk@^3.1.0:
+  version "3.6.11"
+  resolved "https://registry.yarnpkg.com/agora-rtc-sdk/-/agora-rtc-sdk-3.6.11.tgz#113ec8b75fd07038e5726eb47b21a20c4fd7cd6f"
+
+agora-stream-player@^1.1.3:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/agora-stream-player/-/agora-stream-player-1.2.0.tgz#dae292fecd46c22114e0c584d14edda0935ecc14"
+
+agoran-awe@1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/agoran-awe/-/agoran-awe-1.1.2.tgz#64983b0bab0a97c27bf95c0fb63f7ebc06da3a19"
+  dependencies:
+    wolfy87-eventemitter "^5.2.6"
+
 ajv-errors@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/ajv-errors/-/ajv-errors-1.0.1.tgz#f35986aceb91afadec4102fbd85014950cefa64d"
@@ -5404,8 +5418,8 @@ json3@^3.3.2:
   resolved "https://registry.yarnpkg.com/json3/-/json3-3.3.3.tgz#7fc10e375fc5ae42c4705a5cc0aa6f62be305b81"
 
 json5@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/json5/-/json5-1.0.1.tgz#779fb0018604fa854eacbf6252180d83543e3dbe"
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/json5/-/json5-1.0.2.tgz#63d98d60f21b313b77c4d6da18bfa69d80e1d593"
   dependencies:
     minimist "^1.2.0"
 
@@ -5825,8 +5839,8 @@ minimist@0.0.8:
   resolved "https://registry.yarnpkg.com/minimist/-/minimist-0.0.8.tgz#857fcabfc3397d2625b8228262e86aa7a011b05d"
 
 minimist@^1.1.1, minimist@^1.2.0, minimist@^1.2.5:
-  version "1.2.5"
-  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
+  version "1.2.7"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.7.tgz#daa1c4d91f507390437c6a8bc01078e7000c4d18"
 
 minipass-collect@^1.0.2:
   version "1.0.2"
@@ -7408,9 +7422,9 @@ react-dev-utils@^10.2.1:
     strip-ansi "6.0.0"
     text-table "0.2.0"
 
-react-dom@^16.13.1:
-  version "16.13.1"
-  resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-16.13.1.tgz#c1bd37331a0486c078ee54c4740720993b2e0e7f"
+react-dom@^16.4.1:
+  version "16.14.0"
+  resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-16.14.0.tgz#7ad838ec29a777fb3c75c3a190f661cf92ab8b89"
   dependencies:
     loose-envify "^1.1.0"
     object-assign "^4.1.1"
@@ -7484,9 +7498,9 @@ react-scripts@3.4.1:
   optionalDependencies:
     fsevents "2.1.2"
 
-react@^16.13.1:
-  version "16.13.1"
-  resolved "https://registry.yarnpkg.com/react/-/react-16.13.1.tgz#2e818822f1a9743122c063d6410d85c1e3afe48e"
+react@^16.4.1:
+  version "16.14.0"
+  resolved "https://registry.yarnpkg.com/react/-/react-16.14.0.tgz#94d776ddd0aaa37da3eda8fc5b6b18a4c9a3114d"
   dependencies:
     loose-envify "^1.1.0"
     object-assign "^4.1.1"
@@ -9127,6 +9141,10 @@ which@^2.0.1:
   resolved "https://registry.yarnpkg.com/which/-/which-2.0.2.tgz#7c6a8dd0a636a0327e10b59c9286eee93f3f51b1"
   dependencies:
     isexe "^2.0.0"
+
+wolfy87-eventemitter@^5.2.6:
+  version "5.2.9"
+  resolved "https://registry.yarnpkg.com/wolfy87-eventemitter/-/wolfy87-eventemitter-5.2.9.tgz#e879f770b30fbb6512a8afbb330c388591099c2a"
 
 word-wrap@~1.2.3:
   version "1.2.3"
